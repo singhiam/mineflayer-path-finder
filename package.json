@@ -1,0 +1,16 @@
+{
+  "name": "mineflayer_path_finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manpreet Singh",
+  "license": "MIT",
+  "dependencies": {
+    "minecraft-data": "^3.61.0",
+    "mineflayer": "^4.19.0",
+    "mineflayer-pathfinder": "^1.0.10"
+  }
+}
